@@ -25,7 +25,8 @@
 
 ## 📸 구현 화면(샘플)
 ### 메인 페이지
-<img width="1896" height="918" alt="메인페이지" src="https://github.com/user-attachments/assets/c6bbeefa-d199-43cf-8bc0-10f8f13f5283" />
+<img width="1896" height="918" alt="메인페이지" src="https://github.com/user-attachments/assets/27604dc0-0c90-48f8-8d59-2d514479f7ae" />
+
 
 <br><br>
 ### 제휴 페이지
