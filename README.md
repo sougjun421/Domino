@@ -29,7 +29,7 @@
 
 
 <br><br>
-### 제휴 페이지
+### 이벤트 페이지
 <img width="1336" height="920" alt="이벤트제휴" src="https://github.com/user-attachments/assets/b3ae1a34-c250-4870-8265-c3e9d858d705" />
 
 <br><br>
