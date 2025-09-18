@@ -43,5 +43,6 @@
 <img width="416" height="706" alt="이벤트 페이지" src="https://github.com/user-attachments/assets/702c9d73-60ab-4c0b-a378-6c59cfa3fe60" />
 <br><br>
 
+### 실행
 [전체보기](http://sougjun421.dothome.co.kr/008_Project_domino/)
 
