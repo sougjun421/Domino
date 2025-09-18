@@ -9,12 +9,10 @@
 ## 🛠 기술 스택
 **Frontend**
 - HTML5, CSS3, JavaScript  
-<br> 
 **Design**
 - Figma, Photoshop  
-
 **Version Control**
-- Git, GitHub  
+- GitHub  
 
 ## 📐 주요 기능 및 화면 구성
 - **메인 배너** : 이벤트 핵심 정보 강조  
