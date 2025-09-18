@@ -25,22 +25,16 @@
 
 ## 📸 구현 화면(샘플)
 ### 메인 페이지
-<img width="466" height="697" alt="메인 페이지" src="https://github.com/user-attachments/assets/c107280d-6491-40dd-bc5f-3bef3ce74d98" />
+<img width="1896" height="918" alt="메인페이지" src="https://github.com/user-attachments/assets/c6bbeefa-d199-43cf-8bc0-10f8f13f5283" />
+
 <br><br>
 ### 제휴 페이지
-<img width="404" height="697" alt="제휴 페이지" src="https://github.com/user-attachments/assets/41a6ca9a-c3de-4749-966a-a936405679e5" />
-<br><br>
-### 상품권 선물 페이지
-<img width="370" height="697" alt="상품권 선물 페이지" src="https://github.com/user-attachments/assets/c21e9464-07b3-4be9-af17-fded4bad7c2b" />
+<img width="1336" height="920" alt="이벤트제휴" src="https://github.com/user-attachments/assets/b3ae1a34-c250-4870-8265-c3e9d858d705" />
+
 <br><br>
 ### 메뉴 페이지
-<img width="432" height="701" alt="메뉴 페이지" src="https://github.com/user-attachments/assets/56527263-b88e-4c54-838b-6d2b6d2f1af9" />
-<br><br>
-### 문의/칭찬하기 페이지
-<img width="376" height="697" alt="문의/칭찬하기 페이지" src="https://github.com/user-attachments/assets/90634f2c-5ec5-41af-b29a-fd109050dce1" />
-<br><br>
-### 이벤트 페이지
-<img width="416" height="706" alt="이벤트 페이지" src="https://github.com/user-attachments/assets/702c9d73-60ab-4c0b-a378-6c59cfa3fe60" />
+<img width="1377" height="919" alt="메뉴페이지" src="https://github.com/user-attachments/assets/d0d45335-e942-4baa-8eb4-88da8c960b83" />
+
 <br><br>
 
 ## 실행 
