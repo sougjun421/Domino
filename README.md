@@ -8,9 +8,11 @@
 
 ## 🛠 기술 스택
 **Frontend**
-- HTML5, CSS3, JavaScript  
+- HTML5, CSS3, JavaScript
+  
 **Design**
-- Figma, Photoshop  
+- Figma, Photoshop
+  
 **Version Control**
 - GitHub  
 
